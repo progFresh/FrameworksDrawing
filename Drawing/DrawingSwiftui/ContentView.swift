@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  DrawingSwiftui
 //
 //  Created by Сергей Полозов on 30.04.2022.
 //
